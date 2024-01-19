@@ -74,10 +74,10 @@ body * {
   z-index: 1;
   transform: translateY(-50%);
 
-  animation: slide-out 0.5s;
+  animation: slide-out 1.5s;
 }
 .light #switch button {
-  animation: slide-in 0.5s forwards;
+  animation: slide-in 1.5s forwards;
 }
 #switch span {
   display: block;
